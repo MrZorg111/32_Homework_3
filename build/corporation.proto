@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+message Corporation {
+    required string name = 1;
+    required int32 foundation = 2;
+    required string legal_address = 3;
+    optional string type_activity = 4;
+    optional bool foreign_economic_activity = 5;
+}

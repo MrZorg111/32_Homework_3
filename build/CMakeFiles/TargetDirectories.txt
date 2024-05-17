@@ -1,0 +1,5 @@
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_32_JSON/32_Homework_3/build/CMakeFiles/edit_cache.dir
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_32_JSON/32_Homework_3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_32_JSON/32_Homework_3/build/src/CMakeFiles/32_Homework_3.dir
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_32_JSON/32_Homework_3/build/src/CMakeFiles/edit_cache.dir
+C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_32_JSON/32_Homework_3/build/src/CMakeFiles/rebuild_cache.dir
